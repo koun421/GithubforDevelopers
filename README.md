@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+=======
 # GithubforDevelopers
 hello man
+>>>>>>> e60c3ddec195b3b89ddeb4782bd300ac507126ed
 
 # Project Title
 
